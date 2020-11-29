@@ -49,7 +49,7 @@ buttons = [[InlineKeyboardButton(text="➡️ HELP AND COMMANDS ⬅️",
 ]]
 
 buttons += [[InlineKeyboardButton(text="🌍 ADD ME TO YOUR GROUP 🌍",
-                                  url="t.me/Elizabeth_TgBot?startgroup=true"),
+                                  url="t.me/Legend_king_bot?startgroup=true"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="💾SOURCE CODE",
