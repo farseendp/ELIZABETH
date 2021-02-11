@@ -40,7 +40,8 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 PM_START_TEXT = f"""
 `Hi..Welcome` 👀
-`I'm` [ 𝙆𝘼𝙍𝙈𝘼](https://telegra.ph/file/01d5ec25c9982fb2b83d7.jpg)
+`I'm` [ ❰𝙕𝘼𝙔𝙉 𝙈𝘼𝙇𝙄𝙆❱](https://telegra.ph/file/2d85e17f375e287e65902.jpg)
+
 `I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
 """
 
@@ -49,7 +50,7 @@ buttons = [[InlineKeyboardButton(text="➡️ HELP AND COMMANDS ⬅️",
 ]]
 
 buttons += [[InlineKeyboardButton(text="🌍 ADD ME TO YOUR GROUP 🌍",
-                                  url="t.me/𝙆𝘼𝙍𝙈𝘼?startgroup=true"),
+                                  url="t.me/❰𝙕𝘼𝙔𝙉 𝙈𝘼𝙇𝙄𝙆❱?startgroup=true"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="who",
